@@ -1,0 +1,12 @@
+{
+  "name": "3-of-spades",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3 of Spades - a bidding & trick-taking card game for 4-8 players, playable in-browser.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.38.2"
+  }
+}
